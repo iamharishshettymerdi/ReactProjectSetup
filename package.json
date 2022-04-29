@@ -1,0 +1,29 @@
+{
+  "name": "reactprojectsetup",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "webpack-dev-server --open --hot",
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamharishshettymerdi/ReactProjectSetup.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/iamharishshettymerdi/ReactProjectSetup/issues"
+  },
+  "homepage": "https://github.com/iamharishshettymerdi/ReactProjectSetup#readme",
+  "dependencies": {
+    "react-dom": "^18.1.0"
+  },
+  "devDependencies": {
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
